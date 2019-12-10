@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on 不悟</title>
-    <link>https://buwuer.github.io/posts/</link>
-    <description>Recent content in Posts on 不悟</description>
+    <title>反省 on 不悟</title>
+    <link>https://buwuer.github.io/tags/%E5%8F%8D%E7%9C%81/</link>
+    <description>Recent content in 反省 on 不悟</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <lastBuildDate>Fri, 06 Dec 2019 21:30:42 +0800</lastBuildDate>
     
-	<atom:link href="https://buwuer.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://buwuer.github.io/tags/%E5%8F%8D%E7%9C%81/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -27,15 +27,6 @@
  架构层面：软件工程知识匮乏，还处于“码农”的水平，只知代码，不知工程 代码层面：面向对象，没有修炼到家，似乎在用类进行面向过程编程？面向对象本质，理解不透彻  相比与技术上的匮乏，更重要的是对“软件工程”的理解，它决定一个程序员是“码农”还是“工程师”。
 这个课题也将是自己下个阶段的主要学习目标，从业务能力开始，从职业素养开始。
 去作一名“软件工程师”而不是“码农”。</description>
-    </item>
-    
-    <item>
-      <title>家园-序章</title>
-      <link>https://buwuer.github.io/posts/%E5%AE%B6%E5%9B%AD-%E5%BA%8F%E7%AB%A0/</link>
-      <pubDate>Fri, 29 Nov 2019 16:12:30 +0800</pubDate>
-      
-      <guid>https://buwuer.github.io/posts/%E5%AE%B6%E5%9B%AD-%E5%BA%8F%E7%AB%A0/</guid>
-      <description>施工中</description>
     </item>
     
   </channel>

@@ -6,27 +6,45 @@
     <description>Recent content on 不悟</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 29 Nov 2019 18:32:19 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 06 Dec 2019 21:30:42 +0800</lastBuildDate>
     
 	<atom:link href="https://buwuer.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Home</title>
+      <title>离职后的些许思考</title>
+      <link>https://buwuer.github.io/posts/%E7%A6%BB%E8%81%8C%E5%90%8E%E7%9A%84%E4%BA%9B%E8%AE%B8%E6%80%9D%E8%80%83/</link>
+      <pubDate>Fri, 06 Dec 2019 21:30:42 +0800</pubDate>
+      
+      <guid>https://buwuer.github.io/posts/%E7%A6%BB%E8%81%8C%E5%90%8E%E7%9A%84%E4%BA%9B%E8%AE%B8%E6%80%9D%E8%80%83/</guid>
+      <description>对公司 当局者迷，旁观者清。
+对公司项目的熟悉，并未在供职期间让自己拥有良好的视角，反倒是离职后，夜晚思绪翻飞时才以旁观者的身份看清些局面。
+公司项目的架构设计上存在的弊端，导致了业务开发的路子越走越歪：
+ 架构层面：业务梳理不清楚，表结构设计混乱 代码层面：业务抽象与封装还处于比较低的水平，抽象不明确，封装不利索  项目的发展，离不开每个参与人员的影响。能力不足时，也曾在歪掉的路上添砖加瓦；有些许能力的时候，四处填坑救火。
+随者修补工作充斥日常，越发的没有精力去思考如何根本的解决这个问题。直到发现，不是没时间去思考，而是没能力去解决，这也是离职的主因之一。
+对个人 回顾这段时间，自己有成长，从写边边角角的酱油小弟，到小公司的核心开发；也有不足，从技术上的匮乏，到业务上工程心态的不足。
+一叶障目，不见泰山。这次的离职起码代表一种意志，一种想看见泰山有多宏伟的意志
+ 架构层面：软件工程知识匮乏，还处于“码农”的水平，只知代码，不知工程 代码层面：面向对象，没有修炼到家，似乎在用类进行面向过程编程？面向对象本质，理解不透彻  相比与技术上的匮乏，更重要的是对“软件工程”的理解，它决定一个程序员是“码农”还是“工程师”。
+这个课题也将是自己下个阶段的主要学习目标，从业务能力开始，从职业素养开始。
+去作一名“软件工程师”而不是“码农”。</description>
+    </item>
+    
+    <item>
+      <title>家园诸章</title>
       <link>https://buwuer.github.io/home/</link>
       <pubDate>Fri, 29 Nov 2019 18:32:19 +0800</pubDate>
       
       <guid>https://buwuer.github.io/home/</guid>
-      <description></description>
+      <description>施工中</description>
     </item>
     
     <item>
-      <title>About</title>
+      <title>关于</title>
       <link>https://buwuer.github.io/about/</link>
       <pubDate>Fri, 29 Nov 2019 18:17:56 +0800</pubDate>
       
       <guid>https://buwuer.github.io/about/</guid>
-      <description></description>
+      <description>施工中</description>
     </item>
     
     <item>
@@ -35,7 +53,7 @@
       <pubDate>Fri, 29 Nov 2019 16:12:30 +0800</pubDate>
       
       <guid>https://buwuer.github.io/posts/%E5%AE%B6%E5%9B%AD-%E5%BA%8F%E7%AB%A0/</guid>
-      <description>也许你看不到。</description>
+      <description>施工中</description>
     </item>
     
     <item>
